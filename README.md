@@ -1,6 +1,4 @@
 # System Information and Network Adapter List Script
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/S-bTmTY8ceU/0.jpg)](https://youtu.be/S-bTmTY8ceU)
-
 
 This Python script fetches system information such as user names, private IP, public IP, OS version, SSH version, and network adapter list, and presents it in a visually appealing format.
 
